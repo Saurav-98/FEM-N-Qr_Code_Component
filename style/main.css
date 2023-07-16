@@ -46,6 +46,8 @@ img {
 .card--heading {
   color: var(--dark-blue);
   margin-bottom: 1.25rem;
+  font-size: 1.375rem;
+  letter-spacing: 0.8%;
 }
 .card--text {
   color: var(--grayish-blue);
